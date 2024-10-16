@@ -1,14 +1,9 @@
-export const metadata = {
-  title: "About Traversy Media",
-};
+import React from 'react'
 
-
-
-
-const AboutPage = () => {
+const TeamPage = () => {
   return (
     <div>
-      <h1>About Traversy Media</h1>
+      <h1>Our Team</h1>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur ipsa
         id recusandae velit facere rem accusamus incidunt repellat assumenda
@@ -19,4 +14,4 @@ const AboutPage = () => {
   );
 };
 
-export default AboutPage;
+export default TeamPage;
