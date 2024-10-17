@@ -1,3 +1,7 @@
+// add the following code to use it as a client component 
+
+//"use client";
+//import { useState } from 'react';
 import Link from 'next/link'
 
 const Header = () => {
